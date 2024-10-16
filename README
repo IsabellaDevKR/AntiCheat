@@ -1,6 +1,15 @@
-This open source anti cheat was made by Isabella on twitch during a livestream, the progress was all streamed live.
+                                                                            Kernel-Level Anti-Cheat System (Educational Use Only)
 
-Do not claim this as your own.
 
-The source is for educational purposes only, it's kernel.
+This project is a kernel-level anti-cheat system developed for educational purposes. It monitors and manages processes, threads, drivers, and image loads to detect unauthorized modifications and prevent tampering.
 
+
+                                                              * Image Load Management: Verifies loaded modules to block unauthorized injections.
+
+
+                                                                                         * Watch Live Development
+
+                                                                  * This project is developed live on Twitch at https://www.twitch.tv/animbella
+
+                                                                                               Disclaimer!
+                                                                                      For educational purposes only.
