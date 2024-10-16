@@ -1,15 +1,15 @@
-                                                                            Kernel-Level Anti-Cheat System (Educational Use Only)
+Kernel-Level Anti-Cheat System (Educational Use Only)
 
 
-This project is a kernel-level anti-cheat system developed for educational purposes. It monitors and manages processes, threads, drivers, and image loads to detect unauthorized modifications and prevent tampering.
+This project is a kernel-level anti-cheat system developed for educational purposes. 
 
+It monitors and manages processes, threads, drivers, and image loads to detect unauthorized modifications and prevent tampering.
 
-                                                              * Image Load Management: Verifies loaded modules to block unauthorized injections.
+* Image Load Management: Verifies loaded modules to block unauthorized injections.
 
+* Watch Live Development
 
-                                                                                         * Watch Live Development
+* This project is developed live on Twitch at https://www.twitch.tv/animbella
 
-                                                                  * This project is developed live on Twitch at https://www.twitch.tv/animbella
-
-                                                                                               Disclaimer!
-                                                                                      For educational purposes only.
+ Disclaimer!
+ For educational purposes only.
