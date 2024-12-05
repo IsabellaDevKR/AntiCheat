@@ -1,4 +1,4 @@
-# features
+## features
 
 - Attached thread detection
 - Process module .text section integrity checks
